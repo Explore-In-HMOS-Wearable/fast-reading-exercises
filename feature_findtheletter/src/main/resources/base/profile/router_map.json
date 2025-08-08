@@ -1,0 +1,12 @@
+{
+  "routerMap": [
+    {
+      "name": "LetterFindingPage",
+      "pageSourceFile": "src/main/ets/LetterFindingPage.ets",
+      "buildFunction": "LetterFindingPageBuilder",
+      "data": {
+        "description": "this is pageOne"
+      }
+    }
+  ]
+}

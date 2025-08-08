@@ -1,0 +1,12 @@
+{
+  "routerMap": [
+    {
+      "name": "ReadingAccelerator",
+      "pageSourceFile": "src/main/ets/ReadingAccelerator.ets",
+      "buildFunction": "ReadingAcceleratorBuilder",
+      "data": {
+        "description": "this is pageOne"
+      }
+    }
+  ]
+}

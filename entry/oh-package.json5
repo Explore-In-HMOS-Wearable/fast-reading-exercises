@@ -1,0 +1,17 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "feature_splash": "file:../feature_splash",
+    "feature_landing": "file:../feature_landing",
+    "feature_findtheletter": "file:../feature_findtheletter",
+    "feature_readingaccelerator": "file:../feature_readingaccelerator",
+    "feature_similarwords": "file:../feature_similarwords",
+    "feature_schultetable": "file:../feature_schultetable"
+  }
+}
+

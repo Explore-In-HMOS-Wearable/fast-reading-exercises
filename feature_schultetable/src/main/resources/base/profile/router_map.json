@@ -1,0 +1,12 @@
+{
+  "routerMap": [
+    {
+      "name": "SchulteTablePage",
+      "pageSourceFile": "src/main/ets/SchulteTablePage.ets",
+      "buildFunction": "SchulteTablePageBuilder",
+      "data": {
+        "description": "this is pageOne"
+      }
+    }
+  ]
+}

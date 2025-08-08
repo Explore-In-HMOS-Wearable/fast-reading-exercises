@@ -1,0 +1,11 @@
+{
+  "module": {
+    "name": "commons_library",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet",
+      "2in1"
+    ]
+  }
+}

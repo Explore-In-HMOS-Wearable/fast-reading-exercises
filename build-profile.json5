@@ -1,0 +1,69 @@
+{
+  "app": {
+    "signingConfigs": [],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compatibleSdkVersion": "5.0.1(13)",
+        "runtimeOS": "HarmonyOS",
+        "buildOption": {
+          "strictMode": {
+            "caseSensitiveCheck": true,
+            "useNormalizedOHMUrl": true
+          }
+        }
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug",
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "feature_landing",
+      "srcPath": "./feature_landing"
+    },
+    {
+      "name": "feature_splash",
+      "srcPath": "./feature_splash"
+    },
+    {
+      "name": "commons_library",
+      "srcPath": "./commons_library"
+    },
+    {
+      "name": "feature_findtheletter",
+      "srcPath": "./feature_findtheletter",
+    },
+    {
+      "name": "feature_readingaccelerator",
+      "srcPath": "./feature_readingaccelerator",
+    },
+    {
+      "name": "feature_similarwords",
+      "srcPath": "./feature_similarwords",
+    },
+    {
+      "name": "feature_schultetable",
+      "srcPath": "./feature_schultetable",
+    }
+  ]
+}

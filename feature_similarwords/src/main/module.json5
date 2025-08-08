@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "feature_similarwords",
+    "type": "har",
+    "deviceTypes": [
+      "wearable"
+    ]
+  }
+}

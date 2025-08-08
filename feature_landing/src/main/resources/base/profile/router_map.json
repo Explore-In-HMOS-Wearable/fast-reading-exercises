@@ -1,0 +1,12 @@
+{
+  "routerMap": [
+    {
+      "name": "LandingPage",
+      "pageSourceFile": "src/main/ets/LandingPage.ets",
+      "buildFunction": "LandingPageBuilder",
+      "data": {
+        "description": "this is pageOne"
+      }
+    }
+  ]
+}

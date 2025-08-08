@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "Features_findtheletterAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "Features_findtheletterAbility_label",
+      "value": "label"
+    }
+  ]
+}

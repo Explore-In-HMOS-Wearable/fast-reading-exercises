@@ -1,0 +1,12 @@
+{
+  "routerMap": [
+    {
+      "name": "SimilarWordsPage",
+      "pageSourceFile": "src/main/ets/SimilarWordsPage.ets",
+      "buildFunction": "SimilarWordsPageBuilder",
+      "data": {
+        "description": "this is pageOne"
+      }
+    }
+  ]
+}
